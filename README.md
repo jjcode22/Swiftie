@@ -3,7 +3,11 @@
 
 #  BMI Calculator
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hask4PyyQiw?si=4YesrBGHvbmcnZ3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Our Goal
+
+
 
 The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
 
